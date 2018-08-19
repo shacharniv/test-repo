@@ -1,5 +1,5 @@
 # test-repo
-my test repository description
+my test repository
 
 My
 first
